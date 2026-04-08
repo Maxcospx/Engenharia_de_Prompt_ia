@@ -2,16 +2,6 @@
   "cells": [
     {
       "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/Maxcospx/Engenharia_de_Prompt_ia/blob/main/aula07.md\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    },
-    {
-      "cell_type": "markdown",
       "source": [
         "**Atividade de Programação assistida por AI**\n",
         "Nome: Marcos Vinicius Paiva"
@@ -132,8 +122,7 @@
   ],
   "metadata": {
     "colab": {
-      "provenance": [],
-      "include_colab_link": true
+      "provenance": []
     },
     "kernelspec": {
       "display_name": "Python 3",
